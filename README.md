@@ -3,8 +3,10 @@ In this project, we aim for implementing the DDPM (Denoising Diffusion Probabili
 
 Unconditional prediction:
 <img src="outputs/uncond_pred.png" alt="Architecture Diagram" width="50%"/>
+
 Conditional prediction:
 <img src="outputs/cond_pred.png" alt="Architecture Diagram" width="50%"/>
+
 Classification of states for the conditional predictions:
 <img src="outputs/classifier_predictions.png" alt="Architecture Diagram" width="50%"/>
 
